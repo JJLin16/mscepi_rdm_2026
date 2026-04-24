@@ -46,4 +46,3 @@ save "../data/village_info_clean2025.dta", replace
 TEST CHANGE
 cd "C:/Users/linj/Documents/GitHub/academic page/mscepi_rdm_2026/Stata"
 
-* add comments that we will revert later
